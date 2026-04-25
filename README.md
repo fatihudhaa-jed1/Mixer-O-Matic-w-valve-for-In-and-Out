@@ -99,4 +99,3 @@ Currently, the system uses two servo motors as inlet and outlet valves. However,
 | Course | Praktik Mikrokontroler  |
 | Email  | fatihudhaffg@gmail.com  |
 
----
