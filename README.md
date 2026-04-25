@@ -62,3 +62,24 @@ Currently, the system uses two servo motors as inlet and outlet valves. However,
 | U3               | 1        | H-Bridge Motor Driver (L293D)              |
 | P1               | 1        | 5V Power Supply                            |
 | S1, S2, S3       | 3        | Pushbutton                                 |
+
+---
+
+## Pin Configuration
+| Komponen          | Pin Arduino | Description           |
+| ----------------- | ----------- | -------------------- |
+| Start Button      | D7          | Input (INPUT_PULLUP) |
+| Emergency Button  | D2          | Input (INPUT_PULLUP) |
+| Reset Button      | D3          | Input (INPUT_PULLUP) |
+| Servo In (Valve)  | D6          | Output (PWM)         |
+| Servo Out (Valve) | D4          | Output               |
+| Motor IN1         | D9          | Output (arah motor)  |
+| Motor EN          | D5          | Output (enable/PWM)  |
+| LED Ready         | D10         | Output               |
+| LED Process       | D8          | Output               |
+| LED Done          | D13         | Output               |
+| Potensiometer     | A0          | Input (ADC)          |
+| LCD SDA           | A4          | I2C Data             |
+| LCD SCL           | A5          | I2C Clock            |
+
+
