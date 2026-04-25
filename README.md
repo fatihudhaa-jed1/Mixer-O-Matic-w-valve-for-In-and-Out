@@ -92,9 +92,9 @@ Currently, the system uses two servo motors as inlet and outlet valves. However,
 
 ## Author Information
 
-- Name    : Fatih Uhda A.
-- NIM     : 24090620033
-- Matkul  : Praktik Mikrokontroller
-- Email   : fatihudhaffg@gmail.com
+**Name**   : Fatih Uhda A.  
+**NIM**    : 24090620033  
+**Course** : Praktik Mikrokontroler  
+**Email**  : fatihudhaffg@gmail.com  
 
 ---
