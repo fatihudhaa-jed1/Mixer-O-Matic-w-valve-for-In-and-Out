@@ -84,3 +84,15 @@ Currently, the system uses two servo motors as inlet and outlet valves. However,
 | LCD SCL           | A5          | I2C Clock            |
 
 
+---
+
+## Link And Download
+
+---
+
+## Author Information
+
+Name    : Fatih Uhda A.
+NIM     : 24090620033
+Matkul  : Praktik Mikrokontroller
+Email   : fatihudhaffg@gmail.com
