@@ -87,10 +87,10 @@ Currently, the system uses two servo motors as inlet and outlet valves. However,
 ---
 
 ## Link
-- [Source Code](https://link.com)
+- [Source Code](https://github.com/fatihudhaa-jed1/Mixer-O-Matic-w-valve-for-In-and-Out/blob/5fe014a2f3d1fee54d5e927ae5379248f16719d2/Code.ino)
 - [TinkerCAD](https://link.com)
 - [CSV File](https://link.com)
-- [Youtube Documentation](https://link.com)
+- [Youtube Documentation](https://youtu.be/sNdAc3KAxVc)
 
 ---
 
