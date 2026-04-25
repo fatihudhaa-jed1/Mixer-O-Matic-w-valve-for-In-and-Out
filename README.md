@@ -22,6 +22,9 @@ Currently, the system uses two servo motors as inlet and outlet valves. However,
 ---
 
 ## System Workflow
+
+![Image Alt](https://github.com/fatihudhaa-jed1/Mixer-O-Matic-w-valve-for-In-and-Out/blob/b08a7b7a10068944190aa8606c3726d26ecefb45/Files/Fatih%20Udha%20A.%20-%20Automatic%20Mixer%20w_%20valve%20in%20out.png)
+
 1. The system starts in a "ready" mode (Green LED ON to indicate the systems is good and ready)
 2. In "ready" mode, you can adjust the timer with potentiometer (5s - 20s)
 3. To begin the process, press the START button
@@ -42,4 +45,18 @@ Currently, the system uses two servo motors as inlet and outlet valves. However,
 ---
 
 ## Component
+
+Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"Rpot2",1,"250 kΩ Potentiometer"
+"D1",1,"Red LED"
+"D2",1,"Yellow LED"
+"D3",1,"Green LED"
+"R2, R1, R3",3,"220 Ω Resistor"
+"U2",1,"PCF8574-based, 39 (0x27) LCD 16 x 2 (I2C)"
+"M1",1," DC Motor"
+"SERVO1, SERVO2",2,"Positional Micro Servo"
+"U3",1," H-bridge Motor Driver"
+"P1",1,"5 , 5  Power Supply"
+"S1, S2, S3",3," Pushbutton"
      
