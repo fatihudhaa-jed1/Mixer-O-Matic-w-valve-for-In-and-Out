@@ -25,7 +25,7 @@ Currently, the system uses two servo motors as inlet and outlet valves. However,
 
 <p align="center">
   <img src="https://github.com/fatihudhaa-jed1/Mixer-O-Matic-w-valve-for-In-and-Out/blob/main/Files/FatihUdhaA_MixerDiagram%20(2).gif?raw=true" width="500">
-</p>)
+</p>
 
 1. The system starts in a "ready" mode (Green LED ON to indicate the systems is good and ready)
 2. In "ready" mode, you can adjust the timer with potentiometer (5s - 20s)
