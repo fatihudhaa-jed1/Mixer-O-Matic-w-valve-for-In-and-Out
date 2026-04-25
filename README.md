@@ -63,7 +63,7 @@ Currently, the system uses two servo motors as inlet and outlet valves. However,
 | P1               | 1        | 5V Power Supply                            |
 | S1, S2, S3       | 3        | Pushbutton                                 |
 
-Download Link : [Download File](https://github.com/USERNAME/REPO/blob/main/path/file.ext?raw=true)
+Download Link : [Download File](https://github.com/fatihudhaa-jed1/Mixer-O-Matic-w-valve-for-In-and-Out/blob/f5a327c7442e581e0a0663158e87a695da348593/Component.csv)
 
 ---
 
