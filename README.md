@@ -86,7 +86,7 @@ Currently, the system uses two servo motors as inlet and outlet valves. However,
 
 ---
 
-## Link And Download
+## Link
 
 ---
 
