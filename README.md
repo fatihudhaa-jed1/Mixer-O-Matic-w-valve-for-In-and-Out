@@ -46,18 +46,17 @@ Currently, the system uses two servo motors as inlet and outlet valves. However,
 
 ## Component
 
-```csv
-Name,Quantity,Component
-"U1",1," Arduino Uno R3"
-"Rpot2",1,"250 kΩ Potentiometer"
-"D1",1,"Red LED"
-"D2",1,"Yellow LED"
-"D3",1,"Green LED"
-"R2, R1, R3",3,"220 Ω Resistor"
-"U2",1,"PCF8574-based, 39 (0x27) LCD 16 x 2 (I2C)"
-"M1",1," DC Motor"
-"SERVO1, SERVO2",2,"Positional Micro Servo"
-"U3",1," H-bridge Motor Driver"
-"P1",1,"5 , 5  Power Supply"
-"S1, S2, S3",3," Pushbutton"
-     
+| Name              | Quantity | Component                                  |
+|------------------|----------|--------------------------------------------|
+| U1               | 1        | Arduino Uno R3                             |
+| Rpot2            | 1        | 250 kΩ Potentiometer                       |
+| D1               | 1        | Red LED                                    |
+| D2               | 1        | Yellow LED                                 |
+| D3               | 1        | Green LED                                  |
+| R1, R2, R3       | 3        | 220 Ω Resistor                             |
+| U2               | 1        | LCD 16x2 I2C (PCF8574, 0x27)               |
+| M1               | 1        | DC Motor                                   |
+| SERVO1, SERVO2   | 2        | Positional Micro Servo                     |
+| U3               | 1        | H-Bridge Motor Driver (L293D)              |
+| P1               | 1        | 5V Power Supply                            |
+| S1, S2, S3       | 3        | Pushbutton                                 |
