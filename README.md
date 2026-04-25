@@ -68,17 +68,17 @@ Currently, the system uses two servo motors as inlet and outlet valves. However,
 ## Pin Configuration
 | Komponen          | Pin Arduino | Description           |
 | ----------------- | ----------- | -------------------- |
-| Start Button      | D7          | Input (INPUT_PULLUP) |
-| Emergency Button  | D2          | Input (INPUT_PULLUP) |
-| Reset Button      | D3          | Input (INPUT_PULLUP) |
-| Servo In (Valve)  | D6          | Output (PWM)         |
+| Start Button      | D7          | Input  |
+| Emergency Button  | D2          | Input  |
+| Reset Button      | D3          | Input  |
+| Servo In (Valve)  | D6          | Output         |
 | Servo Out (Valve) | D4          | Output               |
-| Motor IN1         | D9          | Output (arah motor)  |
-| Motor EN          | D5          | Output (enable/PWM)  |
+| Motor IN1         | D9          | Output  |
+| Motor EN          | D5          | Output   |
 | LED Ready         | D10         | Output               |
 | LED Process       | D8          | Output               |
 | LED Done          | D13         | Output               |
-| Potensiometer     | A0          | Input (ADC)          |
+| Potensiometer     | A0          | Input          |
 | LCD SDA           | A4          | I2C Data             |
 | LCD SCL           | A5          | I2C Clock            |
 
