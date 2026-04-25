@@ -23,7 +23,7 @@ Currently, the system uses two servo motors as inlet and outlet valves. However,
 
 ## System Workflow
 
-![Image Alt](<p align="center">
+(<p align="center">
   <img src="https://github.com/fatihudhaa-jed1/Mixer-O-Matic-w-valve-for-In-and-Out/blob/main/Files/FatihUdhaA_MixerDiagram%20(2).gif?raw=true" width="500">
 </p>)
 
