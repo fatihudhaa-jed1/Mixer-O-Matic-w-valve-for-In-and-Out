@@ -1,4 +1,7 @@
 # Mixer-O-Matic-w-valve-for-In-and-Out
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ![Image Alt](https://github.com/fatihudhaa-jed1/Mixer-O-Matic-w-valve-for-In-and-Out/blob/b08a7b7a10068944190aa8606c3726d26ecefb45/Files/Fatih%20Udha%20A.%20-%20Automatic%20Mixer%20w_%20valve%20in%20out.png)
 
