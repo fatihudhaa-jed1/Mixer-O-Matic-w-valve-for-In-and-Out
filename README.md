@@ -92,8 +92,6 @@ Currently, the system uses two servo motors as inlet and outlet valves. However,
 
 ## Author Information
 
-## 👨‍💻 Author
-
 | Field   | Information              |
 |--------|--------------------------|
 | Name   | Fatih Uhda A.           |
