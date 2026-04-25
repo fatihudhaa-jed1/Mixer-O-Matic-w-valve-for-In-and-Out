@@ -1,1 +1,1 @@
-![Files](Files/Fatih Udha A. - Automatic Mixer w_ valve in out.png)
+![Image Alt](image_url)
