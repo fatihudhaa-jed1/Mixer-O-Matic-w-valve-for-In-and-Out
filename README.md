@@ -101,7 +101,7 @@ Currently, the system uses two servo motors as inlet and outlet valves. However,
 
 | Field   | Information              |
 |--------|--------------------------|
-| Name   | Fatih Uhda A.           |
+| Name   | Fatih Udha A.           |
 | NIM    | 24090620033             |
 | Course | Praktik Mikrokontroler  |
 | Email  | fatihudhaffg@gmail.com  |
