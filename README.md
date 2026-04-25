@@ -92,6 +92,7 @@ Currently, the system uses two servo motors as inlet and outlet valves. However,
 - [Source Code](https://github.com/fatihudhaa-jed1/Mixer-O-Matic-w-valve-for-In-and-Out/blob/5fe014a2f3d1fee54d5e927ae5379248f16719d2/Code.ino)
 - [TinkerCAD](https://www.tinkercad.com/things/iWbRIBPaT01-fatih-udha-a-automatic-mixer-w-valve-in-out?sharecode=W6bUfbUYSW_zypZwaqyce4gISLMdFWjoAfgIQ89ShjE)
 - [CSV File](https://github.com/fatihudhaa-jed1/Mixer-O-Matic-w-valve-for-In-and-Out/blob/9bc9f4b2f10fa9a316cb49043761669e6d8619a3/Component.csv)
+- [Schematics](https://github.com/fatihudhaa-jed1/Mixer-O-Matic-w-valve-for-In-and-Out/blob/4f813195027408af24acc6ec999e45152db615ee/Schematics_Rangkaian.md)
 - [Youtube Documentation](https://youtu.be/sNdAc3KAxVc)
 
 ---
