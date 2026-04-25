@@ -46,6 +46,7 @@ Currently, the system uses two servo motors as inlet and outlet valves. However,
 
 ## Component
 
+```csv
 Name,Quantity,Component
 "U1",1," Arduino Uno R3"
 "Rpot2",1,"250 kΩ Potentiometer"
